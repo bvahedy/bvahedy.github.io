@@ -4,6 +4,6 @@
  "manifestUrl": "https://bvahedy.github.io/manifest.json",
  "type": "sword-https",
  "host": "bvahedy.github.io",
- "catalogDirectory": "/data",
- "packageDirectory": "/data/zip"
+ "catalogDirectory": "/",
+ "packageDirectory": "/zip"
 }
