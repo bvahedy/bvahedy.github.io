@@ -1,9 +1,0 @@
-{
- "name": "AndBible Test Repo",
- "description": "Module repository maintained by bvahedy",
- "manifestUrl": "https://bvahedy.github.io/data/manifest.json",
- "type": "sword-https",
- "host": "andbible.github.io",
- "catalogDirectory": "/data",
- "packageDirectory": "/data/zip"
-}
